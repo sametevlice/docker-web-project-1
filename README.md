@@ -37,6 +37,3 @@ docker-web-project/
 ├── style.css
 └── README.md
 
-
-##Görsel
- <img width="600" height="500" alt="Samet | DevOps Portfolio2" src="https://github.com/user-attachments/assets/465a2773-c604-4599-976b-bcf69d70b909" />
